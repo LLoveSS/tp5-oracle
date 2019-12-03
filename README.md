@@ -1,0 +1,2 @@
+thinkphp5融入oracle连接
+只需要修改database.php中**部分即可
